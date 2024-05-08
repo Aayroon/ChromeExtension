@@ -30,6 +30,15 @@ button {
     background-color: #8bc34a;
 }
 
+#tab-btn {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#tab-btn:hover {
+    background-color: #8bc34a;
+}
+
 #delete-btn {
     background: white;
     color: #5f9341;
